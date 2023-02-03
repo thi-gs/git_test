@@ -1,2 +1,2 @@
-This is an example of how to create a great git commit message!
+JUST CHANGED TO TEST! This is an example of how to create a great git commit message!
 It is very important.
