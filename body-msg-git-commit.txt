@@ -1,0 +1,3 @@
+This is the body of my git commit message.
+Here, I should give context about WHY I did the changes I've done.
+In this test, I want to see if I can attach this text to a git commit.

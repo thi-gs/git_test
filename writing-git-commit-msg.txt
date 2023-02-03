@@ -1,0 +1,2 @@
+This is an example of how to create a great git commit message!
+It is very important.
